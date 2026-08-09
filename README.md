@@ -1,5 +1,5 @@
 <h1 align="center">
-🌸 Hi, I'm IHXU 🌸
+🌸 Hi, I'm XU LIHAN 🌸
 </h1>
 
 <p align="center">
@@ -31,9 +31,10 @@ currently_learning:
 
 interests:
   - AI
-  - Computer Science
+  - LLM
   - Open Source
   - Interesting Projects
+  - Federated Learning
 ```
 
 ---
