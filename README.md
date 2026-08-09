@@ -24,7 +24,7 @@
 ## 🎀 Loading Cute Things...
 
 <p align="center">
-  <img src="./assets/loading.gif" width="120" alt="Cute loading animation" />
+  <img src="./loading.gif" width="120" alt="Cute loading animation" />
 </p>
 
 ---
@@ -32,7 +32,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,matlab,js,ts,react,nodejs,docker,linux,git" />
+  <img src="https://skillicons.dev/icons?i=python,docker,linux,git" />
 </p>
 
 ---
