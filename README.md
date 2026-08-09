@@ -1,9 +1,7 @@
-<h1 align="center">
-🌸 Hi, I'm XU LIHAN 🌸
-</h1>
+<h1 align="center">🌸 Hi, I'm IHXU 🌸</h1>
 
 <p align="center">
-  <img src="./assets/chiikawa.gif" width="220" alt="Chiikawa">
+  <img src="./assets/chiikawa.gif" width="220" alt="Chiikawa welcome gif" />
 </p>
 
 <p align="center">
@@ -11,86 +9,56 @@
   💻 Exploring AI, Technology & Open Source
 </p>
 
-<p align="center">
-  ✨ Welcome to my little corner of GitHub ✨
-</p>
 
 ---
 
 ## 🌱 About Me
 
-```yaml
-name: IHXU
-role: ECE MPhil Student
-university: The University of Hong Kong
-
-currently_learning:
-  - Artificial Intelligence 🤖
-  - Software Development 💻
-  - Research & Engineering Skills 🔬
-
-interests:
-  - AI
-  - LLM
-  - Open Source
-  - Interesting Projects
-  - Federated Learning
-```
+- 🔭 I’m currently an ECE MPhil student at The University of Hong Kong
+- 🌱 I’m currently learning AI, software development, and research tools
+- 💬 Ask me about coding, research, and technology
+- 📫 How to reach me: lihan_xu@outlook.com
 
 ---
 
-## 🐰 My Journey
+## 🎀 Loading Cute Things...
 
-🌱 Always learning something new
-✨ Building small things with big curiosity
-🍵 Enjoying the process of research and coding
-🌈 Trying to make technology more creative and friendly
+<p align="center">
+  <img src="./assets/loading.gif" width="120" alt="Cute loading animation" />
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,matlab,js,ts,react,nodejs,docker,linux,git" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,matlab,js,ts,react,nodejs,docker,linux,git" />
 </p>
-
----
-
-## 📌 Featured Projects
-
-🐣 Coming soon...
-
-I am working on projects related to:
-
-* 🤖 Artificial Intelligence
-* 🧠 Machine Learning
-* 💻 Software Development
-* 🔬 Research & Engineering
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=IHXU&show_icons=true&theme=rose_pine" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IHXU&show_icons=true&theme=rose_pine" />
 </p>
 
 ---
 
-## 🐾 Little Corner
+## 🌸 My Contribution Snake
 
 <p align="center">
-<img src="./assets/chiikawa.gif" width="160">
-</p>
-
-<p align="center">
-✨ Keep learning · Keep creating · Keep smiling ✨
+  <img src="https://github.com/IHXU/IHXU/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
 
-## 📫 Contact Me
+## 🐾 Cute Corner
 
-💌 Email: [lihan_xu@outlook.com](mailto:lihan_xu@outlook.com)
+<p align="center">
+  <img src="./assets/chiikawa.gif" width="160" alt="Chiikawa" />
+</p>
 
-⭐ Feel free to explore my repositories!
+<p align="center">
+  ✨ Keep learning · Keep creating · Keep smiling ✨
+</p>
