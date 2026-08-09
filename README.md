@@ -29,14 +29,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IHXU&show_icons=true&theme=rose_pine" />
-</p>
-
----
-
 ## 🌸 My Contribution Snake
 
 <p align="center">
