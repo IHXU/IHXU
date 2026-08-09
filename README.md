@@ -1,7 +1,7 @@
-<h1 align="center">🌸 Hi, I'm IHXU 🌸</h1>
+<h1 align="center">🌸 Hi, I'm XU LIHAN 🌸</h1>
 
 <p align="center">
-  <img src="./assets/chiikawa.gif" width="220" alt="Chiikawa welcome gif" />
+  <img src="./chiikawa.gif" width="220" alt="Chiikawa welcome gif" />
 </p>
 
 <p align="center">
