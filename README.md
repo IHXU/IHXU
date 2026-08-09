@@ -21,14 +21,6 @@
 
 ---
 
-## 🎀 Loading Cute Things...
-
-<p align="center">
-  <img src="./loading.gif" width="120" alt="Cute loading animation" />
-</p>
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -54,6 +46,9 @@
 ---
 
 ## 🐾 Cute Corner
+<p align="center">
+  <img src="./loading.gif" width="120" alt="Cute loading animation" />
+</p>
 
 <p align="center">
   <img src="./assets/chiikawa.gif" width="160" alt="Chiikawa" />
