@@ -1,10 +1,12 @@
-<h1 align="center">
+<div align="center">
+
+<h1>
 🌸 Hi, I'm IHXU 🌸
 </h1>
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=IHXU&label=&color=ffb6c1&style=flat-square" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=IHXU&label=&color=ffb6c1&style=flat-square" />
+
+</div>
 
 <p align="center">
   <img src="./chiikawa.gif" width="220" alt="Chiikawa welcome gif" />
