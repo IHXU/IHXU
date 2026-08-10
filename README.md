@@ -1,11 +1,13 @@
-<h1 align="center">🌸 Hi, I'm XU LIHAN 🌸</h1>
+<h1 align="center">
+🌸 Hi, I'm IHXU 🌸
+</h1>
 
-<p align="center">
-  <img src="./chiikawa.gif" width="220" alt="Chiikawa welcome gif" />
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=IHXU&label=&color=ffb6c1&style=flat-square" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=IHXU&label=Profile%20views&color=ff69b4&style=for-the-badge" />
+  <img src="./chiikawa.gif" width="220" alt="Chiikawa welcome gif" />
 </p>
 
 <p align="center">
@@ -28,7 +30,8 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,docker,linux,git" />
+  <img src="https://raw.githubusercontent.com/IHXU/IHXU/output/github-contribution-grid-snake.svg" 
+  alt="snake animation">
 </p>
 
 ---
