@@ -36,14 +36,11 @@
 
 ---
 
-## 🌸 Most Used Languages
+## 💻 Most Used Languages
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IHXU&layout=compact&hide_border=true&theme=rose_pine"
-  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IHXU&layout=compact&langs_count=8&hide_border=true&theme=rose_pine">
 </p>
----
 
 ## 🌸 My Contribution Snake
 
