@@ -38,14 +38,11 @@
 ---
 
 ## 🐾 Cute Corner
-<p align="center">
-  <img src="./loading.gif" width="120" alt="Cute loading animation" />
-</p>
 
-<p align="center">
-  <img src="./assets/chiikawa.gif" width="160" alt="Chiikawa" />
+  <img src="./loading.gif" width="100"/>
+  <img src="./chiikawa.gif" width="180"/>
+  <img src="./right.gif" width="120"/>
 </p>
-
 <p align="center">
   ✨ Keep learning · Keep creating · Keep smiling ✨
 </p>
