@@ -1,5 +1,5 @@
 <h1 align="center">
-🌸 Hi, I'm IHXU 🌸
+🌸 Hi, I'm XU LIHAN 🌸
 </h1>
 
 <p align="right">
@@ -30,9 +30,9 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IHXU/IHXU/output/github-contribution-grid-snake.svg" 
-  alt="snake animation">
+  <img src="https://skillicons.dev/icons?i=python,nodejs,docker,linux,git" />
 </p>
+
 
 ---
 
