@@ -32,17 +32,23 @@
 ## 🌸 My Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/IHXU/IHXU/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/IHXU/IHXU/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
 
 ## 🐾 Cute Corner
 
-  <img src="./loading.gif" width="100"/>
-  <img src="./chiikawa.gif" width="180"/>
+<p align="center">
+
+  <img src="./loding.gif" width="120"/>
+
+  <img src="./loading.gif" width="220"/>
+
   <img src="./right.gif" width="120"/>
+
 </p>
+
 <p align="center">
   ✨ Keep learning · Keep creating · Keep smiling ✨
 </p>
